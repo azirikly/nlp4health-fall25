@@ -19,8 +19,9 @@ show_social: false              # remove social icons
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", title: Home, sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
+  - {file: "home.html", title: Home, sidebaricon: home}
+  - {file: "syllabus.html", title: Syllabus, sidebaricon: syllabus}
+  #- {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:ayah.zirikly@gwu.edu"}
