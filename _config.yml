@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "CSCI 4907/6907 NLP for Health"
+author: "Aya Zirikly"
+description: "George Washington University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -12,6 +12,7 @@ show_excerpts: true             # show article excerpts instead of archive list 
 show_frame: true                # display a grey frame on large screens
 show_sidebar: false             # show a sidebar instead of the usual header
 show_minimal: false             # remove all clutter
+show_social: false
 
 #show_frame: "/assets/images/background.svg"
 
