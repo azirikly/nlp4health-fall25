@@ -12,20 +12,20 @@ show_excerpts: true             # show article excerpts instead of archive list 
 show_frame: true                # display a grey frame on large screens
 show_sidebar: false             # show a sidebar instead of the usual header
 show_minimal: false             # remove all clutter
-show_social: false
+show_social: false              # remove social icons
 
 #show_frame: "/assets/images/background.svg"
 
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
+  - {file: "archive.html", title: Home, sidebaricon: home}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:ayah.zirikly@gwu.edu"}
+  - {title: Github, icon: github, url: "https://https://cs.engineering.gwu.edu/"}
+#  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
