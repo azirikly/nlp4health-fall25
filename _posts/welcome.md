@@ -1,0 +1,6 @@
+---
+title: "Course Overview"
+layout: page
+---
+
+This course covers topics related to Natural Language Processing (NLP) with a focus on applications in the health sector. Students will explore fundamental concepts, tools, and methods used in health-related NLP tasks, including traditional techniques and cutting-edge innovations like Large Language Models (LLMs).  The course will also discuss topics related to datasets and ethical considerations. 
