@@ -33,58 +33,58 @@ Tentative and can change slightly based as the course progresses
 - Project updates
   
 **Week 3: Named Entity Recognition (NER) in Medical Texts**
-Key methods and tools in NER for healthcare
-Review of recent NER studies
-Project updates
+- Key methods and tools in NER for healthcare
+- Review of recent NER studies
+- Project updates
 
 **Week 4: Relation Extraction in Healthcare**
-Techniques and challenges in extracting relations
-Case studies and paper discussions
-Project updates
+- Techniques and challenges in extracting relations
+- Case studies and paper discussions
+- Project updates
 
 **Week 5: Datasets**
-Exploration of datasets specific to health research
-Clinical data vs. social media
-Project updates
+- Exploration of datasets specific to health research
+- Clinical data vs. social media
+- Project updates
 
 **Week 6: Traditional Machine Learning vs. Large Language Models in Health**
-Overview of traditional methods in health
-Overview of LLM in health
-Project updates
+- Overview of traditional methods in health
+- Overview of LLM in health
+- Project updates
 
 **Week 7: Predictive Modeling -session 1**
-Choose from three main categories
-Symptoms discovery
-Disease detection
-Decision support systems
+- Choose from three main categories
+- Symptoms discovery
+- Disease detection
+- Decision support systems
 
 **Week 8: Predictive Modeling -session 2**
-Choose from three main categories
-Symptoms discovery
-Disease detection
-Decision support systems
+- Choose from three main categories
+- Symptoms discovery
+- Disease detection
+- Decision support systems
 
 **Week 9: Mental Health and NLP**
-Applications of NLP in mental health assessment
-Review of research and future possibilities
+- Applications of NLP in mental health assessment
+- Review of research and future possibilities
 
 **Week 10: Sentiment Analysis and Emotion Detection in Health**
-Techniques and challenges in sentiment analysis
-Discussion of relevant papers in mental health contexts
+- Techniques and challenges in sentiment analysis
+- Discussion of relevant papers in mental health contexts
 
 **Week 11: Ethics and bias in NLP for Health**
-Privacy, bias, and fairness in health NLP
-Deep view on model biases
-Critical analysis of ethical issues through papers
+- Privacy, bias, and fairness in health NLP
+- Deep view on model biases
+- Critical analysis of ethical issues through papers
 
 **Week 12: Explainable AI**
-Importance and techniques of explainability in health models
-Interpretability and its impact on clinical integration
+- Importance and techniques of explainability in health models
+- Interpretability and its impact on clinical integration
 
 **Week 13: Trends and Innovations and project presentations**
-Emerging trends and future possibilities
-Paper discussions on cutting-edge research
+- Emerging trends and future possibilities
+- Paper discussions on cutting-edge research
 
 **Week 14: Project Presentations and Course Wrap-up**
-Student project presentations
-Reflective discussions on course learnings
+- Student project presentations
+- Reflective discussions on course learnings
