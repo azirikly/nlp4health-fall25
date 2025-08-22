@@ -7,11 +7,11 @@ title: "Home"
   {% for page in site.pages %}
     <article>
       {% include meta.html page=page %}
-      {{ post.excerpt }}
+      {{ page.excerpt }}
       <footer class="button"><a href="{{ page.url | relative_url }}">read more</a></footer>
     </article>
   {% endfor %}
 {% else %}
-  {% capture source %}{% include_relative home.html title="Pages" %}{% endcapture %}
+  {% capture source %}{% include_relative index.html title="Pages" %}{% endcapture %}
   {{ source | split: "---" | last }}
 {% endif %}
