@@ -2,13 +2,11 @@
 title: "Resources"
 layout: page
 ---
-# Resources
 
 ## Paper presentations signup
-We will use the following link for paper presentations signup 
-https://docs.google.com/spreadsheets/d/1lEqBHbOeBPB_fqHuqNmTzBMYt8EY7wGAZYsaO-7H8Lc/edit?usp=sharing
+We will use the following link for paper presentations signup https://docs.google.com/spreadsheets/d/1lEqBHbOeBPB_fqHuqNmTzBMYt8EY7wGAZYsaO-7H8Lc/edit?usp=sharing
 
-## Week 1 &nbsp;&nbsp;&nbsp 08/27/2025
+## Week 1 <code>&nbsp;&nbsp;&nbsp</code>08/27/2025
 - Please bring your laptop to setup your connection to GW HPC
 
 ## Week 2 &nbsp;&nbsp;&nbsp 09/03/2025
