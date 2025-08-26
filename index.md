@@ -20,9 +20,9 @@ Office hours: TBD
 </div>
 
 ## Grading
-Paper presentations 30%
-Participation 20%
-Class project 50%
+- Paper presentations 30%
+- Participation 20%
+- Class project 50%
 
 ## GW University Policies 
 Please check the [university policies](policies.md) 
