@@ -29,6 +29,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:ayah.zirikly@gwu.edu"}
   - {title: CS&#64GW, url: "https://cs.engineering.gwu.edu/"}
+  - {title: Student Affairs, url: "https://students.gwu.edu/"}
 #  - {title: Github, icon: github, url: "https://cs.engineering.gwu.edu/"}
 #  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
