@@ -13,8 +13,12 @@ Office hours: TBD
 ## Time: Every Wednesday 12:45PM - 03:15PM
 08/25/25 - 12/08/25 (excluding Wednesday 11/26/2025 for Thanksgiving break)
 ## Location 
-ROME Hall (801 22nd St NW, Washington, DC 20052), B103 
-https://maps.app.goo.gl/7TcmNEjpzTeLvjNW6
+[ROME Hall](https://maps.app.goo.gl/7TcmNEjpzTeLvjNW6) (801 22nd St NW, Washington, DC 20052), B103 
+ <div style="position: relative; display: inline-block;">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3105.0295202587413!2d-77.05074482347688!3d38.90044024652381!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b7b1037e1f21%3A0xad216b72c8c00464!2sRome%20Hall!5e0!3m2!1sen!2sus!4v1756216956225!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <i class="fas fa-info-circle" style="position: absolute; top: 10px; right: 10px; font-size: 24px; color: blue;"></i>
+</div>
+
 
 ### Weekly Materials
 Tentative and can change slightly based as the course progresses
