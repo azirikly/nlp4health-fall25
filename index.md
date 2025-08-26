@@ -25,4 +25,4 @@ Participation 20%
 Class project 50%
 
 ## GW University Policies 
-Please check the [university policies] (policies.md) 
+Please check the [university policies](policies.md) 
