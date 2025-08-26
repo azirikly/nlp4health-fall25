@@ -23,6 +23,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "syllabus.md", title: Syllabus, sidebaricon: syllabus}
   - {file: "resources.md", title: Resources, sidebaricon: resources}
   - {file: "projects.md", title: Projects, sidebaricon: projects}
+  - {file: "policies.md", title: GW Policies, sidebaricon: policies}
   #- {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
