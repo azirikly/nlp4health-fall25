@@ -20,7 +20,7 @@ show_social: false              # remove social icons
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: Home, sidebaricon: home}
-  #- {file: "syllabus.html", title: Syllabus, sidebaricon: syllabus}
+  - {file: "syllabus.md", title: Syllabus, sidebaricon: syllabus}
   - {file: "projects.md", title: Projects, sidebaricon: projects}
   - {file: "resources.md", title: Resources, sidebaricon: resources}
   #- {file: "README.md", sidebaricon: address-card}
