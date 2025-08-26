@@ -19,4 +19,10 @@ Office hours: TBD
         <i class="fas fa-info-circle" style="position: absolute; top: 10px; right: 10px; font-size: 24px; color: blue;"></i>
 </div>
 
+## Grading
+Paper presentations 30%
+Participation 20%
+Class project 50%
+
+## GW University Policies 
 
