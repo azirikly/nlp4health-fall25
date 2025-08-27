@@ -10,12 +10,12 @@ Tentative and can change slightly based as the course progresses
 - Introduction and getting to know each other
 - Overview of the class structure (open to updates and changes) 
 - Paper presentations 
-  - 2-3 papers per class 
+ - 2-3 papers per class 
 - Project overview
 - Overview of NLP applications in health
 - Discussion on course projects
-  - Topics of interest
-  - Teams 
+ - Topics of interest
+ - Teams 
 - Timing and final presentations
 - Break 2-2:15
 - 2:15-3:15 HPC tutorial by Jake Messick
