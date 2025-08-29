@@ -8,7 +8,7 @@ We will use the following [link](https://docs.google.com/spreadsheets/d/1lEqBHbO
 
 ## Week 1 08/27/2025
 - Please bring your laptop to setup your connection to GW HPC
-- [Slides](https://docs.google.com/presentation/d/1Atlni4ZWjqRhOWCZ0bINjcpbjTse5gI1VHYBPDzs-K8/edit?usp=drive_link)
+- [Slides - The current setting is for viewer access in the GWU organization.](https://docs.google.com/presentation/d/1Atlni4ZWjqRhOWCZ0bINjcpbjTse5gI1VHYBPDzs-K8/edit?usp=drive_link)
 
 ## Week 2 09/03/2025
  
