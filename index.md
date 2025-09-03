@@ -7,7 +7,8 @@ This course covers topics related to Natural Language Processing (NLP) with a fo
 ## Instructor 
 Aya Zirikly
 
-Office hours: Wednesday 10:45-12:15
+Office hours: 
+Wednesday 10:45-12:15, SEH 2880
 
 # Meeting
 ## Time: Every Wednesday 12:45PM - 03:15PM
