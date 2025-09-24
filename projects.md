@@ -32,5 +32,5 @@ Which dataset(s) you are planning to use and an overview of how it is related to
 Which techniques or models you are planning to use and please make sure to add citations when needed. 
 
 ## Ethics 
-Any ethics, privacy, or de-identification that is related to the dataset and how you are abiding by the rules 
+Any ethics, privacy, or de-identification that is related to the dataset and how you are abiding by the rules and the data usage agreement (DUA). 
 
